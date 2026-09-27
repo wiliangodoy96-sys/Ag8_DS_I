@@ -6,8 +6,7 @@ excelente = 0
 ruim = 0
 
 # Estrutura de repetição para pesquisa dos clientes
-for i in range (10): # estrutura de repetição para que após o prenchimento do nome, idade e nota de opinião, 
-	seja gerado um loop para um novo preenchimento, até fechar a quantidade de pessoas pesqisada
+for i in range (10): # estrutura de repetição para que após o prenchimento do nome, idade e nota de opinião, seja gerado um loop para um novo preenchimento, até fechar a quantidade de pessoas pesqisada
 
 # Entrada de Dados
 	nome = input("Digite o seu Nome: ")
