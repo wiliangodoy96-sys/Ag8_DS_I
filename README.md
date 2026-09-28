@@ -33,13 +33,13 @@ Conversão de dados com int();
 
 Estrutura de repetição for;
 
-Estruturas condicionais if, elif e else;
+Estruturas condicionais if, elif;
 
 Contadores;
 
 Saída de dados com print().
 
-Python 3
+Python 
 
 Visual Studio Code
 
@@ -51,11 +51,11 @@ Digite a sua idade: 32
 
 Digite sua opinião sobre o atendimento - 1: Excelente; 2: Bom; 3: Ruim: 1
 
-Após a participação dos 6 clientes, um possível resultado seria:
+Após a participação dos 510 clientes, um possível resultado seria:
 
 ### RESULTADO DA PESQUISA
 
-Respostas Excelente: 3
+Respostas Excelente: 7
 
 Respostas Bom: 2
 
